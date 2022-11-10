@@ -7,6 +7,12 @@ Olá, Eu sou Kaua Richard! 🖐
 
 <div style="display: inline_block">
     <img aling= "center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
+    <img aling= "center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="ccs">
+
+
+   
+    <img aling= "center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
+    " alt="python">
 </div>
 
 
